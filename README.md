@@ -31,21 +31,31 @@ CSS
 .blog .blogic.oneSpace > div:nth-child(1) {
     grid-row: 1/3;
 }
+
 .blog .blogic.twoSpace > div:nth-child(1) {
     grid-row: 1/3;
 }
+
 .blog .blogic.twoSpace > div:nth-child(2) {
     grid-row: 1/3;
 }
 
 HTML
+
 <div class="blog">
+    
     <div class="blogic" id="blog">
+    
           <div class="cols-1"></div
+          
           <div class="cols-1"></div
+          
           <div class="cols-1"></div
+          
           <div class="cols-1"></div
+          
       </div>
+      
  </div>
 
 
