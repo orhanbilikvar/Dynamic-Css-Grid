@@ -5,7 +5,7 @@ Dynamic Css Grid
 https://codepen.io/orhanblv/pen/wbBGRO
 
 JS
-
+```
 var parent = document.getElementById("main");
 
 var countClass = parent.getElementsByClassName("cols-1");
@@ -34,10 +34,10 @@ if (CountA>3) {
         element.classList.add("twoSpace");
     }
 }
-
+```
 
 CSS
-
+```
 .blog .blogic.oneSpace > div:nth-child(1) {
     grid-row: 1/3;
 }
@@ -49,6 +49,7 @@ CSS
 .blog .blogic.twoSpace > div:nth-child(2) {
     grid-row: 1/3;
 }
+```
 
 HTML
 ```
