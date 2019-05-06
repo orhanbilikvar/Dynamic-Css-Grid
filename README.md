@@ -56,13 +56,13 @@ HTML
     
     <div class="blogic" id="blog">
     
-          <div class="cols-1"></div
+          <div class="cols-1"></div>
           
-          <div class="cols-1"></div
+          <div class="cols-1"></div>
           
-          <div class="cols-1"></div
+          <div class="cols-1"></div>
           
-          <div class="cols-1"></div
+          <div class="cols-1"></div>
           
       </div>
       
