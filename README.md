@@ -21,6 +21,7 @@ CountC=CountA - (CountB*3);
 CountD=3-CountC;
 
 if (CountA>3) {
+
     if ( CountD == 1 ) {
         var element = document.getElementById("blog");
         element.classList.add("oneSpace");
