@@ -2,6 +2,8 @@
 
 Dynamic Css Grid
 
+*Solution for space in the last row
+
 https://codepen.io/orhanblv/pen/wbBGRO
 
 JS
