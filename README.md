@@ -5,12 +5,19 @@ Dynamic Css Grid
 JS
 
 var parent = document.getElementById("main");
+
 var countClass = parent.getElementsByClassName("cols-1");
+
 console.log(countClass.length);
+
 var CountA = countClass.length;
+
 var CountB = CountA / 3;
+
 CountB = Math.floor(CountB);
+
 CountC=CountA - (CountB*3);
+
 CountD=3-CountC;
 
 if (CountA>3) {
