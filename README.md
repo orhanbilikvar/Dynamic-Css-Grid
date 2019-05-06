@@ -51,7 +51,7 @@ CSS
 }
 
 HTML
-
+```
 <div id="main">
 <div class="blog">
 <div class="blogic" id="blog">
@@ -67,5 +67,5 @@ HTML
 </div>
 </div>
 </div>
-
+```
 ![Dynamic Css Grid](https://github.com/obilikvar/Dynamic-Grid/blob/master/taslak_r2_c1.jpg)
