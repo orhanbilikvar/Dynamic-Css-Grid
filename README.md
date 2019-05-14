@@ -4,6 +4,12 @@ Dynamic Css Grid
 
 *Solution for space in the last row
 
+Solution with css
+
+https://codepen.io/orhanblv/pen/zQojXr
+
+Solution with css+js
+
 https://codepen.io/orhanblv/pen/wbBGRO
 
 JS
